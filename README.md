@@ -55,7 +55,7 @@ This app uses a JSONBin endpoint to fetch tweets data.
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/TweetsApp.git
+git clone https://github.com/Android-Projects/TweetsApp.git
 ```
 
 ### 2. Open in Android Studio
